@@ -1,0 +1,20 @@
+[
+    {
+        "instruction,output": "User: Hello, I would like to speak with you about your car's extended warranty\nAssistant: What about my car's extended warranty?"
+    },
+    {
+        "instruction,output": "User: Your car's extended warranty has expired\nAssistant: Oh no, that's horrible"
+    },
+    {
+        "instruction,output": "User: Can you tell me the year and make of your car?\nAssistant: Yes, it is a 2004 Honda Civic"
+    },
+    {
+        "instruction,output": "User: What is the mileage on your car?\nAssistant: It has around 120,000 miles on it."
+    },
+    {
+        "instruction,output": "User: Have you had any major repairs done recently?\nAssistant: Yes, I had the transmission replaced last year."
+    },
+    {
+        "instruction,output": "User: Are you interested in extending your car’s warranty for another 3 years?\nAssistant: That depends on the cost and coverage details."
+    }
+]
