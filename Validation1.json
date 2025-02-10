@@ -1,26 +1,32 @@
 [
     {
-        "instruction,output": "User: Do you have an extended warranty? \nAssistant: Why, yes I do!",
-        "instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+        "instruction": "Do you have an extended warranty?",
+        "input": "",
+        "output": "Why, yes I do!"
     },
     {
-        "instruction,output": "User: Your car's extended warranty has expired!\nAssistant: That is the worst!",
-        "instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+        "instruction": "Your car's extended warranty has expired!",
+        "input": "",
+        "output": "That is the worst!"
     },
     {
-        "instruction,output": "User: What kind of car do you have?\nAssistant: A 2004 Honda Civic",
-        "instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+        "instruction": "What kind of car do you have?",
+        "input": "",
+        "output": "A 2004 Honda Civic"
     },
     {
-        "instruction,output": "User: How many miles has your car been driven?\nAssistant: It’s at about 120,000 miles now.",
-        "instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+        "instruction": "How many miles has your car been driven?",
+        "input": "",
+        "output": "It’s at about 120,000 miles now."
     },
     {
-        "instruction,output": "User: Has your car had any major issues?\nAssistant: Yes, I had to replace the transmission last year.",
-        "instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+        "instruction": "Has your car had any major issues?",
+        "input": "",
+        "output": "Yes, I had to replace the transmission last year."
     },
     {
-        "instruction,output": "User: Would you like to extend your warranty for three more years?\nAssistant: That depends on the price and what’s covered.",
-        "instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+        "instruction": "Would you like to extend your warranty for three more years?",
+        "input": "",
+        "output": "That depends on the price and what’s covered."
     }
 ]
